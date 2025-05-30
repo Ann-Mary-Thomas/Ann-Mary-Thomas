@@ -12,7 +12,7 @@ I’m a detail-oriented data analyst with experience in developing predictive mo
 ---
 
 ## 💼 Experience Highlights
-- **Researcher**, London Metropolitan University (Feb 2025 – Jun 2025)  
+- **Researcher**, London Metropolitan University (Feb 2025 – Present)  
   Forecasting electricity demand and CO₂ emissions using LSTM, RNN, and RBM.
 
 - **Junior Data Analyst**, Navalt Solar & Electric Boats  
