@@ -13,7 +13,7 @@ I’m a detail-oriented data analyst with experience in developing predictive mo
 
 ## 💼 Experience Highlights
 - **Researcher**, London Metropolitan University (Feb 2025 – Present)  
-  Forecasting electricity demand and CO₂ emissions using LSTM, RNN, and RBM.
+  Forecasting electricity demand and CO₂ emissions using LSTM, RNN, RBM+MLP, RBM+LSTM and LSTM+Attention.
 
 - **Data Analyst Intern**, Archaiesth  
   Worked at a fashion startup analyzing customer purchase patterns and demographics.
