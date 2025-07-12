@@ -7,7 +7,9 @@
 ---
 
 ## 🔍 About Me  
-I’m a detail-oriented data analyst with experience in developing predictive models, building insightful dashboards, and transforming data into impactful insights. My current work involves deep learning models to forecast energy demand and CO₂ emissions.
+Data Analyst and Researcher with hands-on expertise in energy analysis, sustainability, decarbonisation strategies,
+and applying AI for energy forecasting. Skilled in predictive modelling, deep learning, time-series forecasting, and
+insightful data visualisation to drive actionable recommendations.
 
 ---
 
