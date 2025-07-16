@@ -27,8 +27,12 @@ insightful data visualisation to drive actionable recommendations.
 ---
 
 ## 🚀 Featured Projects
-- [TAL-Net: Joint Forecasting of Electricity Demand & CO₂ Emissions](https://github.com/Ann-Mary-Thomas/talnet-usa-energy-co2)  
+
+- [TAL-Net: Joint Forecasting of Electricity Demand & CO₂ Emissions](https://github.com/Ann-Mary-Thomas/talnet-energy-emissions-forecasting)  
   *Hybrid deep learning framework for joint regional energy demand and emissions forecasting using the novel TAL-Net architecture.*
+
+- [Dual LSTM: Joint Forecasting of Electricity Demand & CO₂ Emissions](https://github.com/Ann-Mary-Thomas/dual-lstm-energy-emissions-forecasting)  
+  *Joint forecasting of U.S. electricity demand and CO₂ emissions using a dual-output LSTM, with renewable integration scenarios and explainable AI insights.*
 
 - [Energy Forecasting (Deep Learning)](https://github.com/Ann-Mary-Thomas/energy-forecasting-usa)  
   *Deep learning models (LSTM, RNN, RBM+NN) for forecasting electricity demand and emissions across U.S. regions.*
