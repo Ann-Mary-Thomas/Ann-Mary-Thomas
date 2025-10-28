@@ -7,10 +7,25 @@
 ---
 
 ## 🔍 About Me  
-Data Analyst and Researcher with hands-on expertise in energy analysis, sustainability, decarbonisation strategies,  
-and applying AI for energy forecasting. Skilled in predictive modelling, deep learning, time-series forecasting, and  
-insightful data visualisation to drive actionable recommendations.
+**Data Analyst & AI Researcher | Energy Analytics | Sustainability & Decarbonisation | Deep Learning**
 
+I'm a data analyst and AI researcher specializing in energy system analytics, sustainability, and decarbonisation strategies. With an MSc in Data Analytics and a background in Mechanical Engineering, I bridge advanced analytics with practical impact—turning complex data into actionable insights that drive sustainable transformation.
+
+Current Focus:
+At 3T Additive Manufacturing, I'm developing a comprehensive roadmap for energy consumption reduction, cost optimization, and CO₂ minimization across manufacturing operations. I analyze operational data to design evidence-based policies that reduce environmental impact while maintaining efficiency.
+
+At London Metropolitan University's Genesis Lab, I lead cutting-edge research on U.S. energy systems using hybrid AI architectures (LSTM+Attention, RNN, RBM+MLP) with real-time EIA-930 grid data. My work combines predictive modeling, scenario-based analysis, and renewable penetration simulations (10-50% solar integration) to forecast electricity demand and CO₂ emissions. These findings are being prepared for academic publication and contribute to sustainable energy planning.
+
+Industry Experience:
+As a Junior Data Analyst at Navalt Solar and Electric Boats, I analyzed operational data from 600+ ships, built marine CO₂ emission models, and reduced data processing time by 75% through Python automation—supporting data-driven decisions in green marine technology.
+
+What Drives Me:
+I thrive on translating complex datasets into clear, impactful narratives through interactive dashboards, predictive models, and scenario analysis. My curiosity drives me to explore emerging techniques in time-series forecasting, deep learning, and renewable energy analytics—always making insights accessible and actionable for stakeholders.
+
+💡 Core Skills:
+Energy & Emissions Forecasting • Deep Learning (LSTM/RNN/Attention Mechanisms) • Renewable Integration Analysis • Python (TensorFlow, scikit-learn, Pandas) • Power BI • SQL • Data Visualization • Scenario Modeling • CRISP-DM • Stakeholder Engagement
+
+📫 Let's connect if you're interested in sustainability analytics, energy forecasting, or AI-driven solutions for decarbonisation!
 ---
 
 ## 💼 Experience Highlights
