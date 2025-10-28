@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ann Mary Thomas
 
 🎓 MSc in Data Analytics | London Metropolitan University  
-💼 **Energy Consumption and Sustainability Analyst** | Passionate about data-driven sustainability 
+💼 **Energy Consumption and Sustainability Analyst** | Passionate about data-driven sustainability  
 📊 Python • SQL • Power BI • Machine Learning • Forecasting
 
 ---
