@@ -14,7 +14,13 @@ insightful data visualisation to drive actionable recommendations.
 ---
 
 ## 💼 Experience Highlights
-- **Research Assistant**, London Metropolitan University (Feb 2025 – Present)  
+
+- **Energy Consumtion and Sustainability Analyst**, 3T Additive Manufacturing( Sep 2025 - Present)
+• Learning the manufacturing process and data tools
+• Helping define simple KPIs (energy, cost, CO₂)
+• Exploring forecasting and dashboards to support decisions
+  
+- **Research Assistant**, London Metropolitan University (Feb 2025 – Sep 2025)  
   Conducting research on joint forecasting of electricity demand and CO₂ emissions using hybrid deep learning models  
   including LSTM, RNN, RBM+MLP, RBM+LSTM and the novel TAL-Net (LSTM+Attention).
 
