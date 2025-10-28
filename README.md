@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ann Mary Thomas
 
 🎓 MSc in Data Analytics | London Metropolitan University  
-💼 Junior Data Analyst | Passionate about data-driven sustainability  
+💼 Energy Consumption and Sustainability Analyst | Passionate about data-driven sustainability  
 📊 Python • SQL • Power BI • Machine Learning • Forecasting
 
 ---
@@ -15,7 +15,7 @@ insightful data visualisation to drive actionable recommendations.
 
 ## 💼 Experience Highlights
 
-- **Energy Consumtion and Sustainability Analyst**, 3T Additive Manufacturing( Sep 2025 - Present)
+- **Energy Consumption and Sustainability Analyst**, 3T Additive Manufacturing( Sep 2025 - Present)
 • Learning the manufacturing process and data tools
 • Helping define simple KPIs (energy, cost, CO₂)
 • Exploring forecasting and dashboards to support decisions
