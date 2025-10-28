@@ -26,6 +26,7 @@ I thrive on translating complex datasets into clear, impactful narratives throug
 Energy & Emissions Forecasting • Deep Learning (LSTM/RNN/Attention Mechanisms) • Renewable Integration Analysis • Python (TensorFlow, scikit-learn, Pandas) • Power BI • SQL • Data Visualization • Scenario Modeling • CRISP-DM • Stakeholder Engagement
 
 📫 Let's connect if you're interested in sustainability analytics, energy forecasting, or AI-driven solutions for decarbonisation!
+
 ---
 
 ## 💼 Experience Highlights
